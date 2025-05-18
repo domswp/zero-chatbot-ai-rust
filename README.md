@@ -112,7 +112,7 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ## Pengembang
 
-Dibuat dengan ❤️ oleh [domswp]
+Dibuat dengan ❤️ oleh domswp
 
 ## Ucapan Terima Kasih
 
